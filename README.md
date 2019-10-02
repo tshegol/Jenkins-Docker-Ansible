@@ -15,5 +15,5 @@ docker exec jenkins-blue cat /var/jenkins_home/secrets/initialAdminPassword
 
 
 
-"I Choose blueocean jenkins, You can change the details to jenkins/jenkins:lts to load the latest jenkins image managed by jenkins. Please also dont forget to change the image name"
+"I Choose blueocean jenkins, This image can be changed to prefered image on dockerhub eg: jenkins/jenkins:lts etc.
 
